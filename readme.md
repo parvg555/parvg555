@@ -15,7 +15,7 @@
 
 <p align="center">
  <a href="https://linkedin.com/in/parvg" target="_blank" rel="noopener noreferrer"> <img src="lld2.png" alt="LinkedIn" height="80" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:parvg555@gmail.com"> <img src="gmail.png" alt="Python" height="80" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:parvg555@gmail.com"> <img src="gmail.png" alt="Python" height="70" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <br />
