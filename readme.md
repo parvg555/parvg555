@@ -22,7 +22,15 @@
 
 ## 🧰 Languages and Tools:
 <p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<img src="cpp.png" alt="CPP" height="70" style="vertical-align:top; margin:4px">
+<img src="django.png" alt="Django" height="70" style="vertical-align:top; margin:4px">
+<img src="go.png" alt="Go" height="70" style="vertical-align:top; margin:4px">
+<img src="html.png" alt="HTML" height="70" style="vertical-align:top; margin:4px">
+<img src="js.png" alt="JS" height="70" style="vertical-align:top; margin:4px">
+<img src="mongo.png" alt="Mongodb" height="70" style="vertical-align:top; margin:4px">
+<img src="npm.png" alt="NPM" height="70" style="vertical-align:top; margin:4px">
+<img src="php.png" alt="PHP" height="70" style="vertical-align:top; margin:4px">
+<img src="py.png" alt="PYTHON" height="70" style="vertical-align:top; margin:4px">
+<img src="unity.png" alt="UNITY" height="70" style="vertical-align:top; margin:4px">
+<img src="vs.png" alt="Visual Studio" height="70" style="vertical-align:top; margin:4px">
 </p>
