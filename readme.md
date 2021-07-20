@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Parv Gupta 
 <br/>
-![](https://komarev.com/ghpvc/?username=parvg555)
+![views](https://komarev.com/ghpvc/?username=parvg555)
 
 
 ## ✉️ Find me on:
