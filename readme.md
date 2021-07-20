@@ -39,5 +39,5 @@
 
 ## ⚙️  GitHub Analytics
 
-![Parv's GitHub stats](https://github-readme-stats.vercel.app/api?username=parvg555&theme=dark&show_icons=true) &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parvg555&theme=dark&hide_title=true&layout=compact)
+![Parv's GitHub stats](https://github-readme-stats.vercel.app/api?username=parvg555&theme=dark&show_icons=true) &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parvg555&theme=dark)
 
