@@ -34,3 +34,10 @@
 <img src="unity.png" alt="UNITY" height="70" style="vertical-align:top; margin:4px">
 <img src="vs.png" alt="Visual Studio" height="70" style="vertical-align:top; margin:4px">
 </p>
+
+<br />
+
+## ⚙️  GitHub Analytics
+
+![Parv's GitHub stats](https://github-readme-stats.vercel.app/api?username=parvg555&theme=dark&show_icons=true)
+
