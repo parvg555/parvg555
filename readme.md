@@ -6,11 +6,9 @@
 ## 🎓 I'm a BE - Computer Science student at Thapar Institute
 
 * 💡  I like to explore new technologies and develop software solutions and quick hacks.
-* 💡  I like to explore new technologies and develop software solutions and quick hacks.
-* 💡  I like to explore new technologies and develop software solutions and quick hacks.
-* 💡  I like to explore new technologies and develop software solutions and quick hacks.
-
-
+* 🌱  I'm on track for learning more about Artificial Intelligence, web development, and augmented reality.
+* 👯 I’m looking to collaborate with anyone on projects.
+* 💬  Feel free to reach out to me for some interesting discussion.
 
 ## ✉️ Find me on:
 
