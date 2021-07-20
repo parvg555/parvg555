@@ -1,11 +1,8 @@
 # Hi there 👋 I'm Parv Gupta 
 <br />
-<p>
 
-[![Github](https://img.shields.io/github/followers/parvg555?label=Follow&style=social)](https://github.com/parvg555)
+[![Github](https://img.shields.io/github/followers/parvg555?label=Follow&style=social)](https://github.com/parvg555)![views](https://komarev.com/ghpvc/?username=parvg555)
 
-![views](https://komarev.com/ghpvc/?username=parvg555)
-</p>
 
 ## ✉️ Find me on:
 
