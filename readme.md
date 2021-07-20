@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Parv Gupta 
-<br/>
+<br />
 <p>
 [![Github](https://img.shields.io/github/followers/parvg555?label=Follow&style=social)](https://github.com/parvg555)
 ![GitHub Logo](/images/logo.png)
