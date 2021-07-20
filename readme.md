@@ -1,7 +1,9 @@
 # Hi there 👋 I'm Parv Gupta 
 <br/>
+<p>
+![GitHub Logo](/images/logo.png)
 ![views](https://komarev.com/ghpvc/?username=parvg555)
-
+</p>
 
 ## ✉️ Find me on:
 
