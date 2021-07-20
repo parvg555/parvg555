@@ -1,6 +1,8 @@
 # Hi there 👋 I'm Parv Gupta 
 <br/>
-![](https://visitor-badge.laobi.icu/badge?page_id=parvg555.parvg555)
+
+![](https://komarev.com/ghpvc/?username=parvg555&style=flat-square)
+
 ## ✉️ Find me on:
 
 
