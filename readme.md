@@ -3,6 +3,14 @@
 
 [![Github](https://img.shields.io/github/followers/parvg555?label=Follow&style=social)](https://github.com/parvg555) &nbsp; ![views](https://komarev.com/ghpvc/?username=parvg555)
 
+## 🎓 I'm a BE - Computer Science student at Thapar Institute
+
+* 💡  I like to explore new technologies and develop software solutions and quick hacks.
+* 💡  I like to explore new technologies and develop software solutions and quick hacks.
+* 💡  I like to explore new technologies and develop software solutions and quick hacks.
+* 💡  I like to explore new technologies and develop software solutions and quick hacks.
+
+
 
 ## ✉️ Find me on:
 
