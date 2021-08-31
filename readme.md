@@ -41,7 +41,7 @@
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=parvg555&show_icons=true&theme=dark" width = 500>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=parvg555&theme=dark" width = 300>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=parvg555&theme=dark" width = 300><br>
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=parvg555&theme=dark&hide_border=true" width = 500>
 </p>
 
